@@ -1,0 +1,30 @@
+[
+  {
+    "icon": "fa-facebook",
+    "link": "https://www.facebook.com/manuelangel.menendezsuarez.5"
+  },
+  {
+    "icon": "fa-twitter",
+    "link": "https://www.twitter.com/SheldonTiberius"
+  },
+#  {
+#    "icon": "fa-linkedin",
+#    "link": ""
+#  },
+#  {
+#    "icon": "fa-stack-exchange",
+#    "link": ""
+#  },
+  {
+    "icon": "fa-google-plus",
+    "link": ""
+  }
+#  {
+#    "icon": "fa-commenting",
+#    "link": ""
+#  }
+#  {
+#    "icon": "fa-steam",
+#    "link": "http://www.steamcommunity.com/id/pelayonastaviek"
+#  }
+]
