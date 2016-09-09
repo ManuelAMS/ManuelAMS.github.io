@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casi terminada la traducción del mod de Fallout 3 "Ties that Bind" (Lazos que Unen)
-date:   2016-08-09 13:50:39
+date:   2016-09-08 00:44:39
 categories: mods
 ---
 [![Ties that Bind](/static/mods/ttb_1.png)](http://www.nexusmods.com/fallout3/mods/19941)
