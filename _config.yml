@@ -1,12 +1,12 @@
 title: ManuelAMS (Pelayo)
 description: Mis proyectillos
-author: ManuelAMS
+author: ManuelAMS (Pelayo)
 logo: /static/img/avatar.jpg
 github: https://github.com/ManuelAMS
 about: Freelance police
 
-baseurl: "https://manuelams.github.io"
-url: "https://manuelams.github.io"
+#baseurl: "https://manuelams.github.io"
+#url: "https://manuelams.github.io"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
