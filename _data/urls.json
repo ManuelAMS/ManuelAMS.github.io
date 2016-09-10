@@ -15,11 +15,6 @@
     "url": "/translations",
     "icon": "fa-flag"
   },
-#  {
-#    "text": "Traducciones de juegos",
-#    "url": "/games",
-#    "icon": "fa-desktop"
-#  },
   {
     "text": "Proyectos",
     "url": "/projects",

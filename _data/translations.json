@@ -24,5 +24,12 @@
 		"image": "placeholder.jpg",
 		"date": "May 2014",
 		"tags": ["juegos", "multiplataforma"]
+	},
+	{
+		"name": "Starfleet Academy",
+		"image": "placeholder.jpg",
+		"url": "starfleet-academy.html",
+		"date": "2014",
+		"tags": ["juegos", "Windows"]
 	}
 ]
