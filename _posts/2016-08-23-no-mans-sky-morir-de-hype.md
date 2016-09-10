@@ -4,12 +4,13 @@ title: No Man's Sky, o como morir del hype
 date:   2016-08-23 13:50:39
 categories: reviews
 ---
+Este artículo fué publicado en [Gamika](http://www.gamika.es) el [23 de Agosto de 2016](http://gamika.es/articulos/no-mans-sky-o-como-morir-del-hype/).
 
 # NO MAN’S SKY, O COMO MORIR DEL HYPE
 
 ## UN VIAJE PERSONAL POR EL UNIVERSO DE LA MENTIRA
 
-Este artículo fué publicado en [Gamika](http://www.gamika.es) el [23 de Agosto de 2016](http://gamika.es/articulos/no-mans-sky-o-como-morir-del-hype/).
+
 
 Me estreno como colaborador de Gamika, así que… p… please, senpai, be gentle!
 
