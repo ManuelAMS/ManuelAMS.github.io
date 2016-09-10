@@ -2,7 +2,7 @@
 layout: page
 title: Star Trek: Starfleet Academy
 #date:   2016-08-09 13:50:39
-categories: mods
+categories: translations
 permalink: /translations/starfleet-academy.html
 ---
 

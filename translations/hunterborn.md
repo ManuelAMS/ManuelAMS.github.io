@@ -2,7 +2,7 @@
 layout: page
 title: Hunterborn
 #date:   2016-08-09 13:50:39
-categories: mods
+categories: translations
 permalink: /translations/hunterborn.html
 ---
 
