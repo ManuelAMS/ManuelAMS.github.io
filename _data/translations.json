@@ -2,14 +2,14 @@
 	{
 		"name": "Ties that Bind en castellano",
 		"image": "tiesthatbind.jpg",
-		"url": "tiesthatbind.html",
+		"url": "tiesthatbind",
 		"date": "Agosto 2016",
 		"tags": ["mods", "Fallout 3",""]
 	},
 	{
 		"name": "Hunterborn en castellano",
 		"image": "placeholder.jpg",
-		"url": "hunterborn.html",
+		"url": "hunterborn",
 		"date": "2016",
 		"tags": ["mods", "Skyrim"]
 	},
@@ -28,7 +28,7 @@
 	{
 		"name": "Starfleet Academy",
 		"image": "placeholder.jpg",
-		"url": "starfleet-academy.html",
+		"url": "starfleet-academy",
 		"date": "2014",
 		"tags": ["juegos", "Windows"]
 	}
