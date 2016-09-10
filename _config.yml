@@ -5,8 +5,8 @@ logo: /static/img/avatar.jpg
 github: https://github.com/ManuelAMS
 about: Freelance police
 
-baseurl: "https://manuelams.gihthub.io"
-url: "https://manuelams.gihthub.io"
+#baseurl: "https://manuelams.gihthub.io"
+#url: "https://manuelams.gihthub.io"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
